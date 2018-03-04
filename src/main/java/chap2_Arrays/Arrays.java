@@ -9,6 +9,7 @@ public class Arrays {
     public static void main(String[] args) {
         long[] intArray = {1,2,4,8,16};
 
+
         long length = 5;
         long key;
         key = 2;
